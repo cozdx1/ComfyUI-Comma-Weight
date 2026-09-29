@@ -1,0 +1,17 @@
+[project]
+name = "comma-weight"
+version = "1.0.0"
+description = "Adjust whole comma-separated prompt tags with Ctrl+Up/Down in ComfyUI."
+license = { file = "LICENSE" }
+requires-python = ">=3.9"
+dependencies = []
+classifiers = ["Operating System :: OS Independent"]
+
+[project.urls]
+Repository = "https://github.com/cozdx1/ComfyUI-Comma-Weight"
+Documentation = "https://github.com/cozdx1/ComfyUI-Comma-Weight#readme"
+"Bug Tracker" = "https://github.com/cozdx1/ComfyUI-Comma-Weight/issues"
+
+[tool.comfy]
+PublisherId = "cozdx1"
+DisplayName = "cozdx1 Comma Weight"

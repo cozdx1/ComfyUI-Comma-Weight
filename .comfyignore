@@ -1,0 +1,4 @@
+# Development files are not needed at runtime.
+tests/
+package.json
+.gitattributes
